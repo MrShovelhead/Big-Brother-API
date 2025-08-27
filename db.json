@@ -1,0 +1,124 @@
+{
+  "citizens":[
+  {
+    "id": 1,
+    "name": "Winston Smith",
+    "loyalty": 96,
+    "status": "Inner Party"
+  },
+  {
+    "id": 2,
+    "name": "Goldstein",
+    "loyalty": 77,
+    "status": "Outer Party"
+  },
+  {
+    "id": 3,
+    "name": "Julia",
+    "loyalty": 56,
+    "status": "Suspicious"
+  },
+  {
+    "id": 4,
+    "name": "O'Brien",
+    "loyalty": 44,
+    "status": "Suspicious"
+  },
+  {
+    "id": 5,
+    "name": "Ampleforth",
+    "loyalty": 23,
+    "status": "Outer Party"
+  },
+  {
+    "id": 6,
+    "name": "Julia",
+    "loyalty": 51,
+    "status": "Suspicious"
+  },
+  {
+    "id": 7,
+    "name": "Julia",
+    "loyalty": 92,
+    "status": "Suspicious"
+  },
+  {
+    "id": 8,
+    "name": "Ampleforth",
+    "loyalty": 65,
+    "status": "Suspicious"
+  },
+  {
+    "id": 9,
+    "name": "Syme",
+    "loyalty": 90,
+    "status": "Under Surveillance"
+  },
+  {
+    "id": 10,
+    "name": "Charrington",
+    "loyalty": 23,
+    "status": "Loyal Citizen"
+  },
+  {
+    "id": 11,
+    "name": "Syme",
+    "loyalty": 50,
+    "status": "Under Surveillance"
+  },
+  {
+    "id": 12,
+    "name": "Katherine",
+    "loyalty": 4,
+    "status": "Under Surveillance"
+  },
+  {
+    "id": 13,
+    "name": "Goldstein",
+    "loyalty": 11,
+    "status": "Thoughtcriminal"
+  },
+  {
+    "id": 14,
+    "name": "Julia",
+    "loyalty": 21,
+    "status": "Loyal Citizen"
+  },
+  {
+    "id": 15,
+    "name": "Julia",
+    "loyalty": 38,
+    "status": "Thoughtcriminal"
+  },
+  {
+    "id": 16,
+    "name": "Big Brother",
+    "loyalty": 12,
+    "status": "Unperson"
+  },
+  {
+    "id": 17,
+    "name": "Parsons",
+    "loyalty": 74,
+    "status": "Thoughtcriminal"
+  },
+  {
+    "id": 18,
+    "name": "Katherine",
+    "loyalty": 84,
+    "status": "Outer Party"
+  },
+  {
+    "id": 19,
+    "name": "Charrington",
+    "loyalty": 48,
+    "status": "Unperson"
+  },
+  {
+    "id": 20,
+    "name": "Parsons",
+    "loyalty": 67,
+    "status": "Loyal Citizen"
+  }
+  ]
+}
